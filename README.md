@@ -1,4 +1,4 @@
-Meu Primeiro Repositório
+Meu Primeiro Repositório no Git
 ========================
 
 O Git/GitHub são legais!
